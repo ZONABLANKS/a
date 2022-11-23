@@ -21,3 +21,7 @@ https://x.yacinetvkora.com/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS1ldS13ZXN0LT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",6
 http://x.yacinetvkora.com/live/tw.m3u8?s=aHR0cHM6Ly9wcm9kLWZhc3RseS11cy13ZXN0LTIudmlkZW8ucHNjcC50di9UcmFuc2NvZGluZy92MS9obHMvdnZEUkFyanN1QTgwTDI0WjhFc3IyVVF1RDBkQ05UWTJQYnVuWHhOYkIwVnBNUGdDVXNOcWtxVkVWNXc4cjYyczNNa3dIa0VtcXBFQW1UdnR2UmJINHcvbm9uX3RyYW5zY29kZS91cy13ZXN0LTIvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtcHJvZC11cy13ZXN0LTItcHJpdmF0ZS9zdF9tYXN0ZXJfZHluYW1pY19oaWdobGF0ZW5jeS5tM3U4P3R5cGU9bGl2ZQ==|User-Agent=HDPlayer/3.5.47 (Linux;Android 12) ExoPlayerLib/2.14.1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",7
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Referer=https://cliptv.vn/

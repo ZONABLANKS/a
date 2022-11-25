@@ -28,12 +28,16 @@ https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Re
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",8
-http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
+https://raw.githubusercontent.com/wontfuck/payy/main/vtv5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",9
+http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",10
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",B2
-http://555.2gounknwar.xyz:80/live/653475/index.m3u8?t=AC-Ai4YP08aEx9F98YHhNQ&e=1669284145|User-Agent=HDPlayer/3.5.47 (Linux;Android 12) ExoPlayerLib/2.14.1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",11
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8

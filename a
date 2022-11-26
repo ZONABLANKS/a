@@ -36,7 +36,7 @@ http://live-ali2.tv360.vn/manifest/vtv2/playlist_720p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",83
-http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
 http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -25,9 +25,10 @@ https://lb.yacinetvkora.com/live/lb/bm6-multi.m3u8|User-Agent=yacinetv11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",7
 https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist.m3u8|Referer=https://cliptv.vn/
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist.m3u8|Referer=https://cliptv.vn/
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv3hd/chunklist.m3u8|Referer=https://cliptv.vn/
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist.m3u8|Referer=https://cliptv.vn/
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+https://stream.mux.com/52NDirVlP018Grd2G00KuXp2PnMJOckuby.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1ubllHVFp0U0FTaTVZQ1JOUDZod0pNeUczZHFxNXozIn0.eyJzdWIiOiI1Mk5EaXJWbFAwMThHcmQyRzAwS3VYcDJQbk1KT2NrdWJ5IiwiZXhwIjoxNjcwODA3MTc2LCJhdWQiOiJ2In0.pvOHPb1dT_I7lk-9tXaUtLO5PDPrFsknwS5BO3TcB_1XFiZvHt02ApLhLO63aeAESBof3ydeyRk0ZTO3D8km0MOmQjX2t1saNGq9IkZ_uNfmWaiMAZ7OslkwpGLv2gdAnWLXmohIxTInfYeARKJJavG7TULxE_J7OS-la1IkUbeoCS_DhONV0scwQE_Ft6cKVvIeGc-_6g0V__2N8BAtEP8M44Db_foP3nLYz-PpeuP4GlXjGJi43akbwo2p5Fa9jC8O6nz2ct9nncP7XT0QDyt5k2MO0QXYd6WbhBKyaOm2KHTRAWc_Bzu72rtJusu18RGcxiynKkx88nIVEl579g
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",82

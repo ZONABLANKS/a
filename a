@@ -82,15 +82,15 @@ https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M1
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+https://raw.githubusercontent.com/ZONABLANKS/a/main/sc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+https://raw.githubusercontent.com/ZONABLANKS/a/main/1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M3
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+https://raw.githubusercontent.com/ZONABLANKS/a/main/ji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M4

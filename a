@@ -95,5 +95,9 @@ https://raw.githubusercontent.com/ZONABLANKS/a/main/1.m3u8
 https://raw.githubusercontent.com/ZONABLANKS/a/main/ji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",indo
+https://raw.githubusercontent.com/ZONABLANKS/a/main/indo.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M4
 http://playlist.urfan.web.id/qwr9ew/s/s04/index.m3u8

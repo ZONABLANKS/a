@@ -32,15 +32,17 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://stream.mux.com/52NDirVlP018Grd2G00KuXp2PnMJOckuby.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik1ubllHVFp0U0FTaTVZQ1JOUDZod0pNeUczZHFxNXozIn0.eyJzdWIiOiI1Mk5EaXJWbFAwMThHcmQyRzAwS3VYcDJQbk1KT2NrdWJ5IiwiZXhwIjoxNjcwODA3MTc2LCJhdWQiOiJ2In0.pvOHPb1dT_I7lk-9tXaUtLO5PDPrFsknwS5BO3TcB_1XFiZvHt02ApLhLO63aeAESBof3ydeyRk0ZTO3D8km0MOmQjX2t1saNGq9IkZ_uNfmWaiMAZ7OslkwpGLv2gdAnWLXmohIxTInfYeARKJJavG7TULxE_J7OS-la1IkUbeoCS_DhONV0scwQE_Ft6cKVvIeGc-_6g0V__2N8BAtEP8M44Db_foP3nLYz-PpeuP4GlXjGJi43akbwo2p5Fa9jC8O6nz2ct9nncP7XT0QDyt5k2MO0QXYd6WbhBKyaOm2KHTRAWc_Bzu72rtJusu18RGcxiynKkx88nIVEl579g
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszdasxnsff Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-global.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTEwMDc2NjAyIiwiY2lkIjoiYzNkNzUwM2NmODNjIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIyLTEyLTE0VDEzOjE4OjQxWiIsImhhc2giOiI2UGxmMkZhSm1hTXFmSTR6M1kvN1c1RmYyLy9HYXp1Mzd5K2xybGtEKytBPSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 3 ID (VIDIO)
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-global.pallycon.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMTEwMDc2NjAyIiwiY2lkIjoiYWFkYjUwODhkMGE0IiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb3ZnbHVHd2lPTjNxMjdpQXVLU0F6cW96UnFaenppdTM5ZS95MEFYd3lLZnUiLCJ0aW1lc3RhbXAiOiIyMDIyLTEyLTE0VDEzOjA4OjIxWiIsImhhc2giOiJYRlFieVllKzQwOXpkcmo3Q08zWnpPd0djS3dKbWZuYlZIRHpidGgrU1ZBPSIsImtleV9yb3RhdGlvbiI6ZmFsc2V9
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 ID (VIDIO)
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/bein1
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.ibb.co/d55Yhf3/Desain-tanpa-judul-11-modified.png" group-title="Olahraga",Bein 1 ID
 https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhuszdasxnsff Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://punya.dukun.masuk.id/drm/bein3
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.ibb.co/CQTcfYT/Desain-tanpa-judul-13-modified.png" group-title="Olahraga",Bein 3 ID
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",83

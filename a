@@ -52,15 +52,15 @@ https://raw.githubusercontent.com/ZONABLANKS/a/main/TOM.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M1
-https://raw.githubusercontent.com/ZONABLANKS/a/main/sc.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M2
-https://raw.githubusercontent.com/ZONABLANKS/a/main/1.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M3
-https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/lokal/ochanneldukunetdahluapainnih.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",indo
@@ -68,4 +68,4 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",M4
-http://playlist.urfan.web.id/qwr9ew/s/s04/index.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=5|Referer=https://rtm-player.glueapi.io/

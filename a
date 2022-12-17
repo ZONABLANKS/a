@@ -2,8 +2,9 @@
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",tvp
 https://ec01.gdn2.cache.orange.pl/dai/org1/vb/tvp1hd/index.m3u8
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",t4u
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",v2

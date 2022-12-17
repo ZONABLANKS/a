@@ -17,28 +17,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",83
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",v2
+https://raw.githubusercontent.com/ZONABLANKS/a/main/v2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",83a
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",v3
+https://raw.githubusercontent.com/ZONABLANKS/a/main/v3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",85
-http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",v5
+https://raw.githubusercontent.com/ZONABLANKS/a/main/v5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",85a
-http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_720p.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",86
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",86a
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",v6
+https://raw.githubusercontent.com/ZONABLANKS/a/main/v6.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",10

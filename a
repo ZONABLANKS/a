@@ -13,7 +13,8 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 #EXTINF:-1 tvg-id="817" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="Malaysia",BEIN SPORTS 2 (VPN)
-https://plain-water-48c7-1.pencuridasarpencuri.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd?&token=sTg=y=6kgzeBSpnUXweA03hBtEjMIfFi2g6l1OaNDnipvvR1Wople7TDDWwicUAw0XLKRIOnyroMBntWf7KRDaAW2qYOmXzGJbSRGi4d8n9jMC9F1m=Z9h5NpUFuvRZJl7OT5sJOThCVMfAK6JRfAAK4wWNXcC3GZQfHT5q2D8etIbo9NT9tmSHiaPrNNx=Jg3pMmqfQsvyNCMVQACv7LoUJVcWLJRks0pouXkrzw8cVaW=wsZ11ZdwFNDvmRIH6UZD0NRuvAvBHGj0eb6yJ0pxJv8gAVi98nM9g7GvTdSOz1UioJ=iLx=6muxWO5AJyzpef9Ja1YlRJergJ3O1ct_hYE8WDW90PNTVW3AskljvDJsQfaOCD6glL5BPI0FEsHc0Ykb0eybKRYz25U0Ivcr5B5mrPdUqOUClv=Tu2=Hbz3Adwjke1TfUVvJ9iV5ryV_1kyhhRm=zhhmZSppu6FIfMVIxCQYgEOb5vsdHsoFzaqGXllJoc3VuRmUU2r6NhbG_cWRLuA93sfC2w3L_g_s0PkY5G4PaI67WX0KLZTA2lc2uD6JzxARAvWADD4D=XZKyQeoK_LBRYOyLFz=LkNYmqPTan7KY2Zp_RTvj3avGyCZTIHEQ1AhKs9Q9AqDtiiphXVG=CoYPUBTdezT0crgEY80DcigNFQf5vu5=K=TEoQrvn0BagxBTNFpiyYPmNDAuqteM=DAuBNEc8fTDClV58loDwZCcmB3u7xi9f6NaFTQEf0HaBAYGGdN=nkcBOIfEnUYIvFP0EXAad2Co0Yvol9ETBqS=QfaHPHW=AyeX3IgGUeckMCTwaail7CuvFc65hbX6PVyqLTmIasJJnaSsjHfjo4Y=a8EKbRRnLF4aqqUi_BmTb2_jiDJKtAk7wv5YE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd?&tcVaW=wsZ1https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",83

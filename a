@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-id="DAZN2Spain.uk" group-title="Olahraga" tvg-logo="https://i.ibb.co/j60Nb0p/DAZN-sports-modified.png", Dazn 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=z7XitzvvTzyHjyWrhqdFHw&key=DWcSvyqE7cyT0AGpYT9v7A
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",tvp
 https://ec01.gdn2.cache.orange.pl/dai/org1/vb/tvp1hd/index.m3u8
